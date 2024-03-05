@@ -8,7 +8,7 @@
 ; Autor: Nuño Reyes Gerardo @nickname GeraNuno
 ; Documentador: Almeida Valles josé de jesús @Nickname JoseAlmeida21
 ; Fecha: 01/03/2024
-; Repositorio: 
+; Repositorio: https://github.com/Jesusrlc/1.2.1-Practicas-GTP-con-ASM-8bit-CLang.git
 
 .begin:	
 	clra            ; Limpiar el registro acumulador A
@@ -53,7 +53,7 @@ Imprimir los numeros enteros del 9 al 43
 Autor: López Contreras Jesús Rafael @Nickname Jesusrlc
 Documentador: Almeida Valles josé de jesús @Nickname JoseAlmeida21
 Fecha: 01/03/2024
-Repositorio: 
+Repositorio: https://github.com/Jesusrlc/1.2.1-Practicas-GTP-con-ASM-8bit-CLang.git
 */
 
 void Contar()   //Creación del procedimiento
