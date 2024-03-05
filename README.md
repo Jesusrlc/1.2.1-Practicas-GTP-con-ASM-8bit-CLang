@@ -1,4 +1,5 @@
-# ![image](https://gist.github.com/assets/158230496/635cb489-12f2-4c17-af33-322550c29cb9)
+# ![image](https://github.com/Jesusrlc/1.2.1-Practicas-GTP-con-ASM-8bit-CLang/assets/158230496/34e517ce-4315-4b3b-ab63-7ee56b5ec735)
+
 
  ```ASM
 ; Problema 1:
